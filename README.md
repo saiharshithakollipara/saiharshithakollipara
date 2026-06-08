@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm jahnavi kollipara</h1>
+<h1 align="center">Hi 👋, I'm sai kollipara</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=82AAF7&width=435&lines=B.Tech+AI+%26+DS+Student;Learning+DSA+%26+FullStack+Development;Exploring+LLMs+%26+Cloud+Computing)](https://git.io/typing-svg)
 
