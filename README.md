@@ -14,12 +14,11 @@
   <img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="300">
 </p>  
 
-GitHub Stats
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikollipara&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikollipara&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikollipara&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikollipara&theme=default&hide_border=true" width="48%" />
 </p>
 
 <h3 align="left">Coding Profiles:</h3>
