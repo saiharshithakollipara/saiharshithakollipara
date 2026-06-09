@@ -6,7 +6,7 @@
 <h3 align="center">B.Tech Student | AI & Data Science | Building things with code</h3>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Exploring+LLMS+&+Cloud;Always+learning+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Student;Exploring+LLMS+%26+Cloud;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 
