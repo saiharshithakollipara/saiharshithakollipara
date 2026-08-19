@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Exploring+LLMs+%26+Cloud;Learning+DSA+Every+Day;Building+AI+%26+Full-Stack+Projects;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG">
 
-<br><br>
-
-<img src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif" width="300">
-
 </div>
 
 ---
@@ -20,17 +16,13 @@
 
 ### 🐶 Mochi says Hi! 👋
 
-<img src="https://media.tenor.com/5s0b5R6T8L8AAAAi/dog-puppy.gif" width="220" alt="Cute Puppy">
-
-<br><br>
-
 **Welcome to Mochi's little world! 🐾**
 
 <br>
 
-🍖 **Feed**    🎾 **Play**    💤 **Sleep**    ❤️ **Pet**
+🍖 **Feed**&nbsp;&nbsp;&nbsp;🎾 **Play**&nbsp;&nbsp;&nbsp;💤 **Sleep**&nbsp;&nbsp;&nbsp;❤️ **Pet**
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/❤️%20Happiness-87%25-ff69b4?style=for-the-badge">
 <img src="https://img.shields.io/badge/🍖%20Hunger-54%25-ffb000?style=for-the-badge">
@@ -38,13 +30,9 @@
 
 <br><br>
 
-<a href="https://github.com/saiharshithakollipara">
-<img src="https://img.shields.io/badge/🐶%20ENTER%20MOCHI'S%20WORLD-6C63FF?style=for-the-badge">
-</a>
+Mochi is an interactive virtual puppy I'm building as a separate web project — GitHub READMEs can't run JavaScript, so the "feed / play / pet" buttons above are just a preview of what the real site will do.
 
-<br><br>
-
-✨ **Mochi's interactive world is coming soon!** ✨
+**🚧 Mochi's interactive world is coming soon!**
 
 </div>
 
@@ -70,22 +58,18 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn">
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://www.codechef.com/users/jahnavi_2026">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40" alt="CodeChef">
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://www.hackerrank.com/jahnavikollipar3">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank">
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://codeforces.com/profile/jahnavikollipara055">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/codeforces.svg" width="40" height="40" alt="Codeforces">
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://leetcode.com/jahnavi_kollipara">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" alt="LeetCode">
 </a>
@@ -120,51 +104,40 @@
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🏠 Cloud Kitchen Management System
-
-A full-stack food delivery application connecting customers, home chefs and delivery drivers.
+Full-stack food delivery application connecting customers, home chefs and delivery drivers.
 
 **React • Firebase • Cloudinary**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🤖 SmartDoc AI Assistant
-
 An Agentic RAG-based PDF question-answering system.
 
 **n8n • Docker • RAG • LLMs**
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🏡 House Price Prediction
-
 A machine-learning based house price prediction and recommendation system.
 
 **Python • Machine Learning**
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎬 Movie Review Sentiment Analysis
-
 An NLP project for classifying movie reviews using sentiment analysis.
 
 **Python • NLP • Machine Learning**
 
 </td>
-
 </tr>
 </table>
 
@@ -189,13 +162,13 @@ An NLP project for classifying movie reviews using sentiment analysis.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saiharshithakollipara&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=saiharshithakollipara&show_icons=true&theme=default&hide_border=true&border_radius=15&bg_color=ffffff" height="170">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiharshithakollipara&theme=tokyonight&hide_border=true&border_radius=15" height="170">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiharshithakollipara&theme=default&hide_border=true&border_radius=15&background=ffffff" height="170">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiharshithakollipara&layout=compact&theme=tokyonight&hide_border=true&border_radius=15">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiharshithakollipara&layout=compact&theme=default&hide_border=true&border_radius=15&bg_color=ffffff">
 
 </div>
 
@@ -206,8 +179,6 @@ An NLP project for classifying movie reviews using sentiment analysis.
 <div align="center">
 
 ### 💡 Think → 🧠 Learn → 💻 Build → 🐛 Break → 🔧 Fix → 🚀 Ship
-
-<br>
 
 **"Always learning. Always building. Always curious."**
 
